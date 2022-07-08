@@ -79,7 +79,7 @@
   
   /*pseudo class */
   
-  ul li a :hover {
+  ul li a:hover {
     background: #4F94CD;
   }
   
