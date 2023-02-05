@@ -19,8 +19,8 @@
   }
   
   body {
-    background: var(--bg-color);
-    color: var(--text-color);
+    background: #000080;
+    color: #00082f;
      font-family: 'Roboto', sans-serif; 
   
   }
@@ -94,5 +94,5 @@
   opacity: 3;
   }
   footer a {
-    color: var(--text-color);
+    color: #5CACEE;
   }
